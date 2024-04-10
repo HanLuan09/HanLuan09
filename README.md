@@ -3,7 +3,7 @@
 My name is Luân, 22 yos, Vietnamese
 
 <a href="#" target="_blank">
-  <img src="svg/HanLuan.svg" width="1200" alt="HanLuan-official" />
+  <img src="svg/HanLuan.svg" width="1200" height="400" alt="HanLuan-official" />
 </a>
 
 <h2 align="center">🛠 Technologies and Tools 🛠</h2>
