@@ -55,9 +55,9 @@ My name is Luân, 22 yos, Vietnamese
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <br>
 <div align=center>
-  <!-- <a href="#" title="HanLuan">
+  <a href="#" title="HanLuan">
     <img width="315" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=HanLuan09&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" />
-  </a> -->
+  </a>
   <a href="#" title="HanLuan">
     <img align="right" width="434" src="https://github-readme-stats.vercel.app/api?username=HanLuan09&theme=radical&hide_border=false&include_all_commits=false&count_private=false" />
   </a>
