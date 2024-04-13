@@ -27,19 +27,19 @@ My name is Luân, 22 yos, Vietnamese
   <!-- <a href="https://HanLuan.com" target="blank">
     <img width="90" height="90" src="images/logo-HanLuan-transparent-bg-192x192.png" alt="HanLuan-blog" />
   </a> -->
-  <a href="https://facebook.com/HanLuan" target="blank">
+  <a href="https://facebook.com" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="HanLuan-facebook" />
   </a>
-  <a href="https://www.youtube.com/c/HanLuanOfficial" target="blank">
+  <a href="https://www.youtube.com" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/youtube-squared.png" alt="HanLuan-youtube" />
   </a>
   <a href="https://www.linkedin.com/in/HanLuan" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/linkedin.png" alt="HanLuan-linkedin" />
   </a>
-  <a href="https://instagram.com/HanLuan" target="blank">
+  <a href="https://instagram.com" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/instagram.png" alt="HanLuan-instagram" />
   </a>
-  <a href="mailto:HanLuan.official@gmail.com" target="top">
+  <a href="" target="top">
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="HanLuan-email" />
   </a>
 </div>
